@@ -1,0 +1,14 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "anu.arreferenceimage"
+    },
+    {
+      "filename" : "leo.arreferenceimage"
+    }
+  ]
+}

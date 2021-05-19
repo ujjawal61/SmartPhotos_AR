@@ -1,0 +1,6 @@
+framework module Pods_SmartPhotosTests {
+  umbrella header "Pods-SmartPhotosTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
